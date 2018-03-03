@@ -1,4 +1,4 @@
-# Spécification de la Rose dorée (Gilded Rose)
+# Spécification de la Rose dorée
 
 Bonjour et bienvenue dans l'équipe de la Rose dorée.
 
